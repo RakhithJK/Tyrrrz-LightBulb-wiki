@@ -1,7 +1,7 @@
 ## Welcome to the LightBulb wiki!
 
-Currently it's kind of empty, but you're welcome to change that!
+[Instructions on how to tweak the configuration file manually](https://github.com/Tyrrrz/LightBulb/wiki/Config-file)
 
-### Useful links:
+### Useful 3rd party links:
 
 - [Usage guide (in Japanese)](http://www.gigafree.net/system/display/LightBulb.html)
