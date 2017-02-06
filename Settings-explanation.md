@@ -20,7 +20,7 @@ Description: This is the color temperature of your screen during night-time. Nig
 
 - **Transition duration**
 
-Default: 90 minutes
+Default: 01:30:00
 
 Config file property name: `TemperatureTransitionDuration`
 
@@ -64,7 +64,7 @@ Default: enabled
 
 Config file property name: `IsGammaPollingEnabled`
 
-Description: When enabled, gamma is refreshed every couple of seconds to make sure its not overriden by anything.
+Description: When enabled, gamma is refreshed every couple of seconds to make sure it is not overriden by anything else.
 
 - **Temperature smoothing**
 
