@@ -18,7 +18,7 @@ Config file property name: `MinTemperature`
 
 Description: This is the color temperature of your screen during night-time. Night-time is the timespan before sunrise and after sunset, which is typically when the sun is hidden and the indoor lights are the primary light source.
 
-- **Transition duration*
+- **Transition duration**
 
 Default: 90 minutes
 
