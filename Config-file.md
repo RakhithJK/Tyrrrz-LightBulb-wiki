@@ -14,6 +14,8 @@ When that's done, you can open the configuration file using any text editor. The
 
 ![](https://i.imgur.com/aYqwKCE.png)
 
+*file content can be different from what is depicted above, depending on program version*
+
 
 ### Reloading settings
 
