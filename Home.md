@@ -1,6 +1,6 @@
 ## Welcome to the LightBulb wiki!
 
-[Instructions on how to tweak the configuration file manually](https://github.com/Tyrrrz/LightBulb/wiki/Config-file)
+Use the links on the sidebar to guide yourself through the wiki
 
 ### Useful 3rd party links:
 
