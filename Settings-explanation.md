@@ -66,7 +66,7 @@ Config file property name: `IsGammaPollingEnabled`
 
 Description: When enabled, gamma is refreshed every couple of seconds to make sure its not overriden by anything.
 
-- **Temperature smoothing*
+- **Temperature smoothing**
 
 Default: enabled
 
@@ -74,7 +74,7 @@ Config file property name: `IsTemperatureSmoothingEnabled`
 
 Description: When enabled, temperature change is smoothed out when toggling LightBulb. This gives a bit of time for the eyes to adjust.
 
-- **Pause when fullscreen*
+- **Pause when fullscreen**
 
 Default: disabled
 
@@ -82,7 +82,7 @@ Config file property name: `IsFullscreenBlocking`
 
 Description: When enabled, LightBulb's workflow will pause if a fullscreen application is currently in foreground.
 
-- **LightBulb toggle hotkey*
+- **LightBulb toggle hotkey**
 
 Default: not set
 
@@ -90,7 +90,7 @@ Config file property name: `ToggleHotkey`
 
 Description: Global hotkey to toggle LightBulb.
 
-- **Polling toggle hotkey*
+- **Polling toggle hotkey**
 
 Default: not set
 
@@ -98,7 +98,7 @@ Config file property name: `TogglePollingHotkey`
 
 Description: Global hotkey to toggle gamma polling.
 
-- **Refresh gamma hotkey*
+- **Refresh gamma hotkey**
 
 Default: not set
 
