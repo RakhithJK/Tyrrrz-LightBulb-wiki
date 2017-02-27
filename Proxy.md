@@ -12,7 +12,7 @@ Windows will use your default credentials when connecting to a proxy server and 
 
 ````json
 "Proxy": {
-    "Host": "http://proxy.server.com",
+    "Host": "proxy.server.com",
     "Port": 1337,
     "Username": "john.doe",
     "Password": "password.in.plain.text.yo"
