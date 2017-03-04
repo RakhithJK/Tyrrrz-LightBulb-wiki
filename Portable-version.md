@@ -1,6 +1,6 @@
 If you prefer to setup LightBulb without the installer, it's possible to do that since version 1.6.3.
 
-Every release (after version 1.6.1) comes with an installer (e.g. `LightBulb_Install_1.6.3.exe`) and an archive of binaries (e.g. `LightBulb_BinariesOnly_1.6.3.zip`). In the latter you will find all the binaries required for LightBulb to work, which you can copy to any directory of your choice.
+Every release (after version 1.6.1) comes with an installer (e.g. `LightBulb_Install_1.6.3.exe`) and an archive of binaries (e.g. `LightBulb_Portable_1.6.3.zip`). In the latter you will find all the binaries required for LightBulb to work, which you can copy to any directory of your choice.
 
 Follow these steps to deploy a portable version of LightBulb:
 
