@@ -1,14 +1,16 @@
-If you prefer to setup LightBulb without the installer, it's possible to do that since version 1.6.3.
+If you prefer to setup LightBulb without an installer, it is possible to do so.
 
-Every release (after version 1.6.1) comes with an installer (e.g. `LightBulb_Install_1.6.3.exe`) and an archive of binaries (e.g. `LightBulb_Portable_1.6.3.zip`). In the latter you will find all the binaries required for LightBulb to work, which you can copy to any directory of your choice.
+Every [release](https://github.com/Tyrrrz/LightBulb/releases) (after version 1.6.1) comes with an installer (e.g. `LightBulb_Install_1.6.1.exe`) and an archive of binaries (e.g. `LightBulb_Portable_1.6.1.zip`). In the latter you will find all the binaries required for LightBulb to work, which you can copy to any directory of your choice.
 
-Follow these steps to deploy a portable version of LightBulb:
+If you are updating LightBulb from a previous version, you only need need to replace old files. If you never had LightBulb installed before, you need to perform some extra steps.
+
+Follow these steps to deploy a portable version of LightBulb for the first time:
 
 - Extract the binaries from archive to any directory
-- Run `Manual_Gamma_Registry_Fix.reg` file as administrator. This makes required changes to the registry, unlocking a broader gamma modification range, which is essential for LightBulb. You only need to do this once, before using LightBulb for the first time.
-- If anything was done in previous step - restart computer.
+- Run `Manual_Gamma_Registry_Fix.reg` file as administrator. This makes required changes to the registry, unlocking a broader gamma modification range, which is essential for LightBulb.
+- Restart computer.
 
-To run LightBulb in portable mode either use the `LightBulb_Portable.bat` file or append the `-portable` command line switch manually: `LightBulb.exe -portable`
+To run LightBulb in portable mode either launch the `LightBulb_Portable.bat` file or append the `-portable` command line switch manually: `LightBulb.exe -portable`.
 
 _Note: .NET framework 4.5.2 is assumed to be installed_
 
