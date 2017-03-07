@@ -10,7 +10,7 @@ Follow these steps to deploy a portable version of LightBulb for the first time:
 - Run `Manual_Gamma_Registry_Fix.reg` file as administrator. This makes required changes to the registry, unlocking a broader gamma modification range, which is essential for LightBulb.
 - Restart computer.
 
-To run LightBulb in portable mode either launch the `LightBulb_Portable.bat` file or append the `-portable` command line switch manually: `LightBulb.exe -portable`.
+To run LightBulb in portable mode either launch the `LightBulb_Portable.bat` file or append the command line switch manually: `LightBulb.exe -portable`.
 
 _Note: .NET framework 4.5.2 is assumed to be installed_
 
