@@ -1,8 +1,4 @@
-## Welcome to the LightBulb wiki!
-
-Use the links on the sidebar to guide yourself through the wiki
-
-### Useful links:
+Useful 3-rd party links:
 
 - [LightBulb on Alternative.to](https://alternativeto.net/software/lightbulb)
 - [LightBulb on Chocolatey](https://chocolatey.org/packages/lightbulb)
