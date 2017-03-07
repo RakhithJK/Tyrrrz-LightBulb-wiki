@@ -1,0 +1,4 @@
+- [LightBulb on Alternative.to](https://alternativeto.net/software/lightbulb)
+- [LightBulb on Chocolatey](https://chocolatey.org/packages/lightbulb)
+- [Usage guide (Japanese/日本語) by gigafree](http://www.gigafree.net/system/display/LightBulb.html)
+- [Usage guide (Japanese/日本語) by mogeringo](http://pc.mogeringo.com/archives/64348)
