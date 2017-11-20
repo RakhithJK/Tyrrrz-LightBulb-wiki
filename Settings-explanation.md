@@ -1,6 +1,6 @@
 ### General settings
 
-![](http://tyrrrz.me/projects/images/lightbulb_1.png)
+![](http://tyrrrz.me/Projects/LightBulb/1.png)
 
 - **Day-time color temperature**
 
@@ -28,7 +28,7 @@ Description: This is the duration of time during which the color temperature swi
 
 ### Geolocation settings
 
-![](http://tyrrrz.me/projects/images/lightbulb_2.png)
+![](http://tyrrrz.me/Projects/LightBulb/2.png)
 
 - **Sunrise time**
 
@@ -56,7 +56,7 @@ Description: When enabled, LightBulb will pull sunrise and sunset times for your
 
 ### Advanced settings
 
-![](http://tyrrrz.me/projects/images/lightbulb_3.png)
+![](http://tyrrrz.me/Projects/LightBulb/3.png)
 
 - **Gamma polling**
 
