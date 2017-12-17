@@ -4,7 +4,7 @@ Please remember that changing the settings in such way can make the program run 
 
 ### Location
 
-Configuration file should be located in `%appdata%\LightBulb\Configuration.dat`. `%appdata%` variable can be expanded by most file explorers, so you can just paste the file path as is. If the configuration file is not there, it means that LightBulb hasn't created one yet. LightBulb saves settings to file every time it closes or when the system shuts down.
+Configuration file should be located in `%appdata%\LightBulb\Configuration.dat`. `%appdata%` variable can be expanded by most file explorers, so you can just paste the file path as is. If the configuration file is not there, it means that LightBulb hasn't created one yet.
 
 ### Editing
 
