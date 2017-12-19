@@ -6,8 +6,8 @@ The following steps will involve manual editing of the configuration file. For m
 - Locate and open the configuration file \*
 - Look for `GeoInfo` property
 - Change `Country`, `CountryCode`, `City`, `Latitude`, `Longitude` as necessary \**
-- Look for `ShouldUpdateGeoInfo` property
-- Set it to `false` instead of `true`
+- Look for `IsGeoInfoLocked` property
+- Set it to `true` instead of `false`
 - Save file
 - Launch LightBulb
 - LightBulb will use stored geolocation settings and will not overwrite them
