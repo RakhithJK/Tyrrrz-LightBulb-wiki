@@ -1,6 +1,6 @@
 ### Nothing is happening
 
-You may experience that despite LightBulb being enabled, the screen doesn't change. This could happen due to several reasons.
+You may experience that, despite LightBulb being enabled, the screen color doesn't change in any way. This could happen due to several reasons:
 
 - **Outdated drivers**. Make sure you're using the latest version of drivers available for your GPU.
 - **DisplayLink**. Monitors connected via DisplayLink dock don't allow changing gamma by default. Refer to [this post](https://support.displaylink.com/knowledgebase/articles/1886413-how-to-enable-night-light-or-f-lux-on-displaylink) for a workaround.
