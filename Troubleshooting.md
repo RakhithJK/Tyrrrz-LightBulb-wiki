@@ -1,6 +1,6 @@
 ### LightBulb isn't launching
 
-LightBulb requires .NET Core runtime to work. Please download both the .NET Core Runtime and .NET Core Desktop Runtime from [here](https://dotnet.microsoft.com/download/dotnet-core/3.0/runtime) (you need both .NET Core Runtime and .NET Core Desktop Runtime).
+LightBulb requires .NET Core runtime to work. Please download both the .NET Core Runtime and .NET Core Desktop Runtime from [the official website](https://dotnet.microsoft.com/download/dotnet-core/3.0/runtime).
 
 ### Nothing is happening
 
