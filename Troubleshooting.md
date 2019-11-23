@@ -2,6 +2,8 @@
 
 LightBulb requires .NET Core runtime to work. Please download both the .NET Core Runtime and .NET Core Desktop Runtime from [the official website](https://dotnet.microsoft.com/download/dotnet-core/3.0/runtime).
 
+If you're having trouble, please check out [this step-by-step guide](https://github.com/Tyrrrz/LightBulb/wiki/How-to-install-.NET-Core-3-runtime).
+
 ### Nothing is happening
 
 You may experience that, despite LightBulb being enabled, the screen color doesn't change in any way. This could happen due to several reasons:
