@@ -44,6 +44,8 @@ LightBulb comes with a lot of different settings, but first thing you should do 
 
 ### Set your desired temperature and brightness settings
 
+LightBulb comes with default settings of 3900K / 80% for night time which will look fine on most monitors. That said, different monitors (and GPUs) have different color profiles, so you will really want to fine-tune this values to your liking. The same color configuration in LightBulb may look completely differently on different monitors.
+
 1. Open **Settings** and navigate to the first tab, **General settings**.
 
 ![general settings](https://i.imgur.com/sf0TrF4.png)
