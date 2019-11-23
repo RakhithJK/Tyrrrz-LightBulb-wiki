@@ -4,6 +4,6 @@ You can use [Google Maps](https://maps.google.com) to find coordinates of any gi
 
 ![coordinates on google maps](https://i.imgur.com/5Lzo5cI.png)
 
-Then just copy-paste them in LightBulb and enjoy.
+Then just copy-paste them in LightBulb, click the checkmark button and enjoy.
 
 ![raw coordinates](https://i.imgur.com/6k6irs7.png)
