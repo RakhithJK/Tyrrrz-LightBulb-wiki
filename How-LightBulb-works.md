@@ -6,11 +6,19 @@ The "color" we associate with different light sources is measured by a value cal
 
 ![different color temperature](https://i.imgur.com/LeQm9iM.png)
 
-Almost all displays are calibrated to match the color temperature of around 6500-6600 degrees Kelvin, which looks fine during day-time, but is excruciating at night. Most people don't notice this because their eyes get used to it after a while, but starring at a bright monitor at night is actually pretty bad for your eyes.
+Almost all displays are calibrated to match the color temperature of around 6500-6600 degrees Kelvin, which looks fine during day-time, but is excruciating at night. Most people don't notice this because their eyes get used to it after a while, but staring at a bright monitor at night is actually pretty bad for your eyes.
 
 Ever had issues with your eyes getting too sore, your head aching or having trouble falling asleep after working late hours behind your computer? It's not unlikely that reducing blue light may help with that.
 
 What LightBulb does is that it gradually changes the gamma of your monitor, starting at sunset, matching the color temperature and brightness settings you have configured. As long as the configuration matches your surrounding environment, your monitor will emit the same type of light as the artificial light in your room, reducing eye-strain and making it easier to fall asleep.
+
+## LightBulb dashboard
+
+The main screen you will see when you launch LightBulb is the so-called dashboard. It shows the sundial and some relevant information.
+
+![dashboard](https://i.imgur.com/5AlA3zz.png)
+
+Here you can see the whole day cycle represented using a circle partitioned in 3 phases: day phase, night phase, and transition phase. In the middle it shows the current state, color temperature, brightness, and time. On the circle itself you will find a smaller moving orange circle that represents your current "position" within the cycle.
 
 ## Configuring LightBulb
 
@@ -18,22 +26,26 @@ LightBulb comes with a lot of different settings, but first thing you should do 
 
 ### Set your location
 
-1. To do that, open LightBulb and click on **Settings**.
-
-![open settings](https://i.imgur.com/R67bwlX.png)
-
-2. Navigate to **Location settings** by clicking on the globe on the left.
+1. Open **Settings** and navigate to **Location settings** by clicking on the globe icon on the left.
 
 ![go to location settings](https://i.imgur.com/q7rHaQd.png)
 
-3. Under **Solar configuration** select **Location-based**.
+2. Under **Solar configuration** select **Location-based**.
 
 ![select location-based](https://i.imgur.com/HnirJXg.png)
 
-4. Here you can either auto-detect your location based on IP using the ![autodetect button](https://i.imgur.com/tiMDJGA.png) button on the left or type in an address or raw coordinates and press the ![set location button](https://i.imgur.com/rPRJO6J.png) button.
+3. Here you can either auto-detect your location based on IP using the ![autodetect button](https://i.imgur.com/tiMDJGA.png) button on the left or type in an address or raw coordinates and press the ![set location button](https://i.imgur.com/rPRJO6J.png) button.
 
 ![manual location using search query](https://i.imgur.com/rX298oZ.png)
 
-5. After that, LightBulb should get the correct coordinates and use that location to calculate sunrise and sunset going forward. Click **Save** to commit your changes.
+4. After that, LightBulb should get the correct coordinates and use that location to calculate sunrise and sunset going forward. Click **Save** to commit your changes.
 
 ![location is set](https://i.imgur.com/JtoV2Bm.png)
+
+### Set your desired temperature and brightness settings
+
+1. Open **Settings** and navigate to the first tab, **General settings**.
+
+![general settings](https://i.imgur.com/sf0TrF4.png)
+
+2. Move the corresponding sliders to match your desired settings. Your monitor may not be affected, depending on the current time of day. It's recommended to wait until the sun sets so that you can calibrate LightBulb against the actual light you have in your room during night-time.
