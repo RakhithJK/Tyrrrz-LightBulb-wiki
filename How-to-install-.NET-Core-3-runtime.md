@@ -10,7 +10,7 @@ Right click on the **Start button** and select **System**. Under the **System ty
 
 Open this link in your browser: https://dotnet.microsoft.com/download/dotnet-core/3.0/runtime
 
-On the left, under **Run desktop apps**, follow the two steps to download installers for your OS.
+On the left, under **Run desktop apps**, follow the two steps to download installers for your OS (x64 if you have a 64-bit OS, x86 if you have a 32-bit OS).
 
 ![download dotnet runtime](https://i.imgur.com/7sH4p5R.png)
 
