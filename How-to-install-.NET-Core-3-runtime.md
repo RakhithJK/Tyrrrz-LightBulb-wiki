@@ -14,7 +14,7 @@ On the left, under **Run desktop apps**, follow the two steps to download instal
 
 ![download dotnet runtime](https://i.imgur.com/7sH4p5R.png)
 
-## Step 3 - install .NET Core 3 runtime and .NET Core 3 desktop runtime
+## Step 3 - install .NET Core runtime and .NET Core desktop runtime
 
 Run the installers you've just downloaded one by one to setup all the required dependencies.
 
