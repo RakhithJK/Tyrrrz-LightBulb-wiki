@@ -1,5 +1,6 @@
 - [LightBulb on Alternative.to](https://alternativeto.net/software/lightbulb)
 - [LightBulb on Chocolatey](https://chocolatey.org/packages/lightbulb)
 - [LightBulb on ProductHunt](https://www.producthunt.com/posts/lightbulb)
-- [Usage guide (Japanese/日本語) by gigafree](http://www.gigafree.net/system/display/LightBulb.html)
-- [Usage guide (Japanese/日本語) by mogeringo](http://pc.mogeringo.com/archives/64348)
+- [Youtube video about LightBulb by 통통구리 (Korean/한국어)](https://youtu.be/t38ThLRmXxY?t=108)
+- [LightBulb usage guide (Japanese/日本語) by gigafree](http://www.gigafree.net/system/display/LightBulb.html)
+- [LightBulb usage guide (Japanese/日本語) by mogeringo](http://pc.mogeringo.com/archives/64348)
