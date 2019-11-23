@@ -6,7 +6,7 @@ Right click on the **Start button** and select **System**. Under the **System ty
 
 ![determine OS bitness](https://i.imgur.com/RKh97dp.png)
 
-## Step 2 - download .NET Core 3 runtime installers
+## Step 2 - download .NET Core runtime installers
 
 Open this link in your browser: https://dotnet.microsoft.com/download/dotnet-core/3.0/runtime
 
