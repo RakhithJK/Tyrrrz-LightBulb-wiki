@@ -1,5 +1,3 @@
-# How to install .NET Core 3 runtime
-
 LightBulb is built using .NET Core 3 runtime and, since it's still new, the installation process is not as smooth as one could hope. These steps should guide you through it.
 
 ## Step 1 - determine OS bitness
