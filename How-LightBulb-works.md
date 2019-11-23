@@ -1,0 +1,39 @@
+LightBulb's main goal is to reduce the eye strain from staring at your monitor during late hours. It has similar functionality to Windows 10 built-in "Night Light" feature, as well as to some other apps like F.lux, Iris, SunsetScreen, but offers additional features and better customization.
+
+As the day goes, the illumination in our surrounding environment changes. During day-time, our main source of light is the sun, which emits a bright white light. During the evening and night-time, after the sun sets, we resort to artificial light, typically incandescent or fluorescent light bulbs, which have a slight yellowish tint.
+
+The "color" we associate with different light sources is measured by a value called [**color temperature**](https://en.wikipedia.org/wiki/Color_temperature).
+
+![different color temperature](https://i.imgur.com/LeQm9iM.png)
+
+Almost all displays are calibrated to match the color temperature of around 6500-6600 degrees Kelvin, which looks fine during day-time, but is excruciating at night. Most people don't notice this because their eyes get used to it after a while, but starring at a bright monitor at night is actually pretty bad for your eyes.
+
+Ever had issues with your eyes getting too sore, your head aching or having trouble falling asleep after working late hours behind your computer? It's not unlikely that reducing blue light may help with that.
+
+What LightBulb does is that it gradually changes the gamma of your monitor, starting at sunset, matching the color temperature and brightness settings you have configured. As long as the configuration matches your surrounding environment, your monitor will emit the same type of light as the artificial light in your room, reducing eye-strain and making it easier to fall asleep.
+
+## Configuring LightBulb
+
+LightBulb comes with a lot of different settings, but first thing you should do is ensure it uses your correct location. To get the most out of this application you will want it to automatically calculate sunrise and sunset based on where you live.
+
+### Set your location
+
+1. To do that, open LightBulb and click on **Settings**.
+
+![open settings](https://i.imgur.com/R67bwlX.png)
+
+2. Navigate to **Location settings** by clicking on the globe on the left.
+
+![go to location settings](https://i.imgur.com/q7rHaQd.png)
+
+3. Under **Solar configuration** select **Location-based**.
+
+![select location-based](https://i.imgur.com/HnirJXg.png)
+
+4. Here you can either auto-detect your location based on IP using the ![autodetect button](https://i.imgur.com/tiMDJGA.png) button on the left or type in an address or raw coordinates and press the ![set location button](https://i.imgur.com/rPRJO6J.png) button.
+
+![manual location using search query](https://i.imgur.com/rX298oZ.png)
+
+5. After that, LightBulb should get the correct coordinates and use that location to calculate sunrise and sunset going forward. Click **Save** to commit your changes.
+
+![location is set](https://i.imgur.com/JtoV2Bm.png)
