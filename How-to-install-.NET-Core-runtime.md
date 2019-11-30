@@ -19,6 +19,7 @@ On the left, under **Run desktop apps**, follow the two steps to download instal
 Run the installers you've just downloaded one by one to setup all the required dependencies.
 
 ![install dotnet runtime](https://i.imgur.com/ySMHaD7.png)
+![install dotnet desktop runtime](https://i.imgur.com/Cf0o1RF.png)
 
 ## Run LightBulb
 
