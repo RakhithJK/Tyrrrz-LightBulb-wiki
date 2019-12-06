@@ -1,26 +1,13 @@
-LightBulb is built using .NET Core 3 runtime and, since it's still new, the installation process is not as smooth as one could hope. These steps should guide you through it.
+LightBulb is built using Microsoft's .NET Core 3 runtime and requires it to work correctly. The installation process is really simple.
 
-## Step 1 - determine OS bitness
+Open this link in your browser: https://dotnet.microsoft.com/download/dotnet-core/current/runtime
 
-Right click on the **Start button** and select **System**. Under the **System type** it should say "64-bit Operating System" or "32-bit Operating System".
+Follow the directions on the left hand side to download .NET Core runtime for desktop apps. Choose either x64 or x86 depending on your operating system. If in doubt, you can download and install both :)
 
-![determine OS bitness](https://i.imgur.com/RKh97dp.png)
+![Download runtime installer](https://i.imgur.com/d6RWP2q.png)
 
-## Step 2 - download .NET Core runtime installers
+After downloading, launch the installer to setup .NET Core runtime. You don't need to restart your PC after it's done.
 
-Open this link in your browser: https://dotnet.microsoft.com/download/dotnet-core/3.0/runtime
+![Install runtime](https://i.imgur.com/jaXep2d.png)
 
-On the left, under **Run desktop apps**, follow the two steps to download installers for your OS (x64 if you have a 64-bit OS, x86 if you have a 32-bit OS).
-
-![download dotnet runtime](https://i.imgur.com/7sH4p5R.png)
-
-## Step 3 - install .NET Core runtime and .NET Core desktop runtime
-
-Run the installers you've just downloaded one by one to setup all the required dependencies.
-
-![install dotnet runtime](https://i.imgur.com/ySMHaD7.png)
-![install dotnet desktop runtime](https://i.imgur.com/Cf0o1RF.png)
-
-## Run LightBulb
-
-That's it, you can now run LightBulb. No restart is required.
+With the runtime installed, you can now run LightBulb.
