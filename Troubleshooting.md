@@ -1,8 +1,10 @@
 ### LightBulb isn't launching
 
-LightBulb requires .NET Core runtime to work. Please download both the .NET Core Runtime and .NET Core Desktop Runtime from [the official website](https://dotnet.microsoft.com/download/dotnet-core/3.0/runtime).
+LightBulb requires .NET Core runtime to work. Please download .NET Core Desktop Runtime from [the official website](https://dotnet.microsoft.com/download/dotnet-core/3.0/runtime). If you're having trouble installing, please check out [this step-by-step guide](https://github.com/Tyrrrz/LightBulb/wiki/How-to-install-.NET-Core-runtime).
 
-If you're having trouble, please check out [this step-by-step guide](https://github.com/Tyrrrz/LightBulb/wiki/How-to-install-.NET-Core-runtime).
+If despite installing .NET Core runtime, LightBulb still doesn't run, here are the possible solutions:
+
+- Windows 7 **KB2533623** update is missing. Running `dotnet` in console shows an error regarding `hostfxr.dll`. To fix that, install Windows updates or manually [download KB2533623](https://www.microsoft.com/en-us/download/details.aspx?id=26767). More info [here](https://github.com/Tyrrrz/LightBulb/pull/105#issuecomment-565435593).
 
 ### Nothing is happening
 
