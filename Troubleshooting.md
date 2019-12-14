@@ -13,7 +13,7 @@ You may experience that, despite LightBulb being enabled, the screen color doesn
 - **Make sure latest Windows updates are installed**.
 - **Update GPU drivers**.
 - Monitors connected via **DisplayLink** don't allow changing gamma by default. Refer to [this post](https://support.displaylink.com/knowledgebase/articles/1886413-how-to-enable-night-light-or-f-lux-on-displaylink) to enable this feature.
-- **TeamViewer** may have installed its own display driver which doesn't support changing gamma. You will have to uninstall the driver (no need to uninstall the software). More info [here](https://github.com/Tyrrrz/LightBulb/issues/100#issuecomment-554009433).
+- If you've installed **TeamViewer** you may have also installed its own display driver which doesn't support changing gamma. You will have to uninstall the driver (no need to uninstall the software). More info [here](https://github.com/Tyrrrz/LightBulb/issues/100#issuecomment-554009433).
 - Disable **integrated GPU** in BIOS if you're using a discrete GPU as it may cause interference. More info [here](https://github.com/Tyrrrz/LightBulb/issues/130#issuecomment-565752598).
 
 ### Cursor is not affected by gamma changes
