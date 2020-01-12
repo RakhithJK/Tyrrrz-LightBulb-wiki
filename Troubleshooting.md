@@ -4,7 +4,10 @@ LightBulb requires .NET Core runtime to work. Please download .NET Core Desktop 
 
 ### LightBulb isn't launching (despite .NET Core Runtime being correctly installed)
 
+- Make sure you have [Microsoft Visual C++ 2015 Redistributable installed](https://www.microsoft.com/download/details.aspx?id=52685).
 - If running on Windows 7, make sure **KB2533623 update is installed**. Either install Windows updates or manually download KB2533623 ([x64](https://www.microsoft.com/en-ie/download/details.aspx?id=26764), [x86](https://www.microsoft.com/en-us/download/details.aspx?id=26767)). More info [here](https://github.com/Tyrrrz/LightBulb/pull/105#issuecomment-565435593).
+
+Full list of prerequisites that may be missing is [here](https://docs.microsoft.com/en-us/dotnet/core/install/dependencies?pivots=os-windows&tabs=netcore31).
 
 ### Gamma is not changing
 
