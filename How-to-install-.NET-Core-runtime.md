@@ -2,7 +2,7 @@ LightBulb is built using Microsoft's .NET Core 3 runtime and requires it to work
 
 Open this link in your browser: https://dotnet.microsoft.com/download/dotnet-core/current/runtime
 
-Follow the directions on the left hand side to download .NET Core runtime for desktop apps. Choose either x64 or x86 depending on your operating system. If in doubt, you can download and install both :)
+Follow the directions on the left hand side to download .NET Core runtime for desktop apps. Choose either x64 or x86 depending on your operating system.
 
 ![Download runtime installer](https://i.imgur.com/d6RWP2q.png)
 
