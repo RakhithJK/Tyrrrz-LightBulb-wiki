@@ -1,4 +1,4 @@
-LightBulb is built using Microsoft's .NET Core 3 runtime and requires it to work correctly. The installation process is really simple.
+LightBulb is built using .NET Core Desktop Runtime and requires it to work correctly. The installation process is really simple.
 
 Open this link in your browser: https://dotnet.microsoft.com/download/dotnet-core/current/runtime
 
