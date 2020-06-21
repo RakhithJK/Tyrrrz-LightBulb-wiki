@@ -23,6 +23,8 @@ You may experience that, despite LightBulb being enabled, the screen color doesn
 
 When hardware cursor rendering is enabled, your mouse pointer is rendered by GPU on a separate layer, thus preventing it from being affected by LightBulb.
 
+In some cases, you should be able to disabled hardware cursor rendering in GPU settings. Otherwise, a common workaround is to change your cursor to a darker/black color scheme.
+
 ### Gamma conflicts with other applications
 
 Some applications may also try to override gamma settings, especially games. In cases where both the application and LightBulb are regularly refreshing gamma, the screen may either flicker or changes by one of the sides may not be seen. Most of the time, you can disable changing gamma in other applications so they don't interfere.
