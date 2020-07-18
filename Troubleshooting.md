@@ -25,7 +25,7 @@ When hardware cursor rendering is enabled, your mouse pointer is rendered by GPU
 
 In some cases, you should be able to disabled hardware cursor rendering in GPU settings. Otherwise, a common workaround is to change your cursor to a darker/black color scheme.
 
-Another workaround is to enable cursor trail: https://github.com/Tyrrrz/LightBulb/issues/157#issuecomment-647428692
+Another workaround is to enable cursor trail, as explained [here](https://github.com/Tyrrrz/LightBulb/issues/157#issuecomment-647428692).
 
 ### Gamma conflicts with other applications
 
