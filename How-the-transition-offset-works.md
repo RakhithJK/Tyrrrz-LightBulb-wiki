@@ -1,6 +1,6 @@
 Transition offset allows you to specify how early or late the transitions start, relative to sunrise and sunset. It's best to understand how it works by looking at some examples:
 
-- **0% offset**
+- **0% offset** (default)
 
   - Day-time transition starts before sunrise and ends at sunrise
   - Night-time transition starts at sunset and ends after sunset
