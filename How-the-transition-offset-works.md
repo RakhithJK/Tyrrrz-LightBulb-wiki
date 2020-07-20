@@ -2,8 +2,8 @@ Transition offset allows you to specify how early or late the transitions start,
 
 - **0% offset** (default)
 
-  - Day-time transition starts before sunrise and ends at sunrise
-  - Night-time transition starts at sunset and ends after sunset
+  - Day-time transition starts before sunrise and ends precisely at sunrise
+  - Night-time transition starts precisely at sunset and ends after sunset
 
 - **25% offset**
 
@@ -22,7 +22,7 @@ Transition offset allows you to specify how early or late the transitions start,
 
 - **100% offset**
 
-  - Day-time transition starts at sunrise and ends after sunrise
-  - Night-time transition starts before sunset and ends at sunset
+  - Day-time transition starts precisely at sunrise and ends after sunrise
+  - Night-time transition starts before sunset and ends precisely at sunset
 
 Depending on factors such as window angle, elevation, building density, presence of trees or mountains, etc., adjusting this offset may help bring your monitor's gamma cycle more in line with how the solar cycle is perceived in your environment.
