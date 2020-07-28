@@ -2,6 +2,8 @@
 
 LightBulb requires .NET Core runtime to work. Please download .NET Core Desktop Runtime from [the official website](https://dotnet.microsoft.com/download/dotnet-core/3.1/runtime). If you're having trouble installing, please check out [this step-by-step guide](https://github.com/Tyrrrz/LightBulb/wiki/How-to-install-.NET-Core-runtime).
 
+If you're on a 32-bit version of Windows, launch LightBulb by going to its directory and running `dotnet LightBulb.dll` instead of running `LightBulb.exe`.
+
 ### LightBulb isn't launching (despite .NET Core Runtime being correctly installed)
 
 - Make sure you have [Microsoft Visual C++ 2015 Redistributable installed](https://www.microsoft.com/download/details.aspx?id=52685).
