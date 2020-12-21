@@ -1,12 +1,11 @@
 LightBulb is built using .NET v3.1 Desktop Runtime and requires it to work correctly. The installation process is really simple.
 
-Open this link in your browser: https://dotnet.microsoft.com/download/dotnet/3.1/runtime.
+Follow one of the download links below, depending on the bitness of your operating system (i.e. 64-bit or 32-bit):
 
-Follow the directions on the left hand side to download .NET Core runtime for desktop apps. Choose either x64 or x86 depending on your operating system.
+- [Windows x64](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-3.1.10-windows-x64-installer)
+- [Windows x86](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-3.1.10-windows-x86-installer)
 
-![Download runtime installer](https://i.imgur.com/d6RWP2q.png)
-
-After downloading, launch the installer to setup .NET Core runtime. You don't need to restart your PC after it's done.
+After downloading, launch the installer to setup the runtime. You don't need to restart your PC after it's done.
 
 ![Install runtime](https://i.imgur.com/jaXep2d.png)
 
