@@ -25,6 +25,6 @@ For the purpose of demonstration, let's assume that sunset takes place at 5:00 A
 - **100% offset**
 
   - Day-time transition starts precisely at sunrise at 5:00 AM and ends after sunrise at 5:40 AM.
-  - Night-time transition starts before sunset at 7:00 PM and ends precisely at sunset at 7:40 PM.
+  - Night-time transition starts before sunset at 6:20 PM and ends precisely at sunset at 7:00 PM.
 
 Depending on factors such as window angle, elevation, building density, presence of trees or mountains, etc., adjusting this offset may help bring your monitor's gamma cycle more in line with how the solar cycle is perceived in your environment.
